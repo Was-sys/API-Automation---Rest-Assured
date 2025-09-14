@@ -1,0 +1,6 @@
+id,name,categoryId,categoryName,photoUrls,tagId,tagName,status
+1,Charlie,1,Dog,http://example.com/dog1.jpg,100,Bulldog,available
+2,Bella,2,Cat,http://example.com/cat1.jpg,101,Siamese,available
+3,Max,3,Bird,http://example.com/bird1.jpg,102,Parrot,available
+4,Luna,4,Rabbit,http://example.com/rabbit1.jpg,103,Dutch,available
+5,Rocky,5,Hamster,http://example.com/hamster1.jpg,104,Syrian,available
