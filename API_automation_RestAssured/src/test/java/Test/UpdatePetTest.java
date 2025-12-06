@@ -13,8 +13,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class UpdatePetTest extends BaseTest {
-
-    // Example test using BaseTest, PetClient and DTOs
     @Test
     public void updatePet() {
         // Path to CSV file
